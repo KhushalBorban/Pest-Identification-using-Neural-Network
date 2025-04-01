@@ -1,4 +1,4 @@
-Introduction
+Introduction :  
 Pests pose a major threat to agricultural productivity, leading to reduced yields and nutrient depletion in crops. The excessive use of pesticides not only contaminates the food chain but also causes environmental and health hazards. Traditional pest identification methods rely on manual inspection, which is often inefficient, time-consuming, and prone to errors. These challenges contribute to economic losses for farmers and, in extreme cases, may even endanger lives.
 
 Early and accurate pest detection can help reduce unnecessary pesticide application, leading to a more sustainable and eco-friendly farming approach. This project introduces an advanced pest classification and detection system utilizing deep convolutional neural networks (CNNs). The proposed model effectively identifies common agricultural pests by analyzing images captured from various sources. By leveraging pre-trained models fine-tuned on a diverse dataset, the system improves accuracy, even when dealing with a limited dataset specific to pests.
